@@ -1,0 +1,28 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+ 
+color: black;
+}
+
+
+
+
+
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  overflow: hidden;
+  animation: fade-in 0.8s ease-out; /* Adjust the duration and timing function as needed */
+}
