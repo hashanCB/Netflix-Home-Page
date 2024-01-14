@@ -1,8 +1,13 @@
-# React + Vite
+This is a Netflix homepage design project using Tailwind CSS and React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Features:
 
-Currently, two official plugins are available:
+Tailwind CSS for creating responsive and accessible design.
+React for creating dynamic and interactive UI elements.
+Devept for building and running the project.
+ Getting Started:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone this repository onto your local machine.
+Install the dependencies using npm or yarn.
+Run the development server using npm start or yarn start.
+
