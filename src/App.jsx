@@ -10,7 +10,7 @@ import Hero from './components/Hero';
 import Tvpart from './components/tv';
 import Download from './components/Download';
 import Everywhere from './components/Everywhere';
-import Profiles from './components/profiles';
+import Profiles from './components/Profiles';
 import Asked from './components/Asked';
 import Footer from './components/Footer';
 
